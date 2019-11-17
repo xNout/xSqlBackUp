@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSqlBackup", "SSqlBackup\SSqlBackup.csproj", "{1A456CA1-5062-4DB7-903B-9F0266A50E23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testingwp", "testingwp\testingwp.csproj", "{42723D7F-D7F4-4126-B65B-39F5A01E8DB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1A456CA1-5062-4DB7-903B-9F0266A50E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A456CA1-5062-4DB7-903B-9F0266A50E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A456CA1-5062-4DB7-903B-9F0266A50E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42723D7F-D7F4-4126-B65B-39F5A01E8DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42723D7F-D7F4-4126-B65B-39F5A01E8DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42723D7F-D7F4-4126-B65B-39F5A01E8DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42723D7F-D7F4-4126-B65B-39F5A01E8DB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
